@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/1c2v4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fc2v4&screen_name=1c2v4)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="c2v4 Spotify Playing" width="350" />](https://open.spotify.com/user/c2v4)
+[<img src="https://novatorem.c2v4.vercel.app/api/spotify" alt="c2v4 Spotify Playing" width="350" />](https://open.spotify.com/user/c2v4)
 
 ### Connect with me:
 
@@ -34,7 +34,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
-</details>  
+</details>
+<br>  
 <details>
   <summary>:zap: Github Cooler Stats</summary>
   <!--START_SECTION:waka-->
