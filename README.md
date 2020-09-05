@@ -33,13 +33,10 @@
   
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  <img align="left" alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
 </details>  
 <details>
   <summary>:zap: Github Cooler Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
