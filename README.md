@@ -32,12 +32,13 @@
 <br>
   
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Cool Github Stats</summary>
   <img align="left" alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
 </details>
 <br>  
+<br>  
 <details>
-  <summary>:zap: Github Cooler Stats</summary>
+  <summary>:zap: Cooler Github Stats</summary>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
