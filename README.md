@@ -28,17 +28,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-<br>
-  
-<details>
-  <summary>:zap: Cool Github Stats</summary>
-  <img align="left" alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
-</details>
-<br>  
-<br>  
-<details>
-  <summary>:zap: Cooler Github Stats</summary>
+<img alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />
+
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -122,4 +113,3 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-</details>
