@@ -31,7 +31,7 @@
 
 <br />
 
-<img alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />  
+<img align="left" alt="c2v4's Github Stats" src="https://github-readme-stats.c2v4.vercel.app/api?username=c2v4&show_icons=true&hide_border=true" />  
 
 
 <br />
