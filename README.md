@@ -37,7 +37,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99883%20lines%20of%20code-blue)
 
@@ -82,10 +82,14 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     38 mins             ████████████░░░░░░░░░░░░░   48.0% 
+Kotlin                   30 mins             █████████░░░░░░░░░░░░░░░░   38.76% 
+Groovy                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 19 mins        █████████████████████████   100.0%
 
 ```
 
