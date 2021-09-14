@@ -82,12 +82,10 @@ Sunday       21 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Groovy                   0 secs              ████████████░░░░░░░░░░░░░   48.88% 
-Kotlin                   0 secs              ███████░░░░░░░░░░░░░░░░░░   29.48% 
-Java                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.64%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,5 +106,5 @@ Shell                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/c2v4/c2v4/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
