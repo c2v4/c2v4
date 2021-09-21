@@ -45,7 +45,7 @@
 
 > 🏆 62 Contributions in the Year 2021
  > 
-> 📦 151.4 kB Used in Github's Storage 
+> 📦 151.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,5 +106,5 @@ Shell                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/c2v4/c2v4/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
