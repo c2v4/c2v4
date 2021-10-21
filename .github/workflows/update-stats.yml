@@ -16,3 +16,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_OS: "False"
+          IGNORED_REPOS: "cnc"
