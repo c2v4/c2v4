@@ -82,10 +82,10 @@ Sunday       37 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-C                        2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,5 +106,5 @@ Shell                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/c2v4/c2v4/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
