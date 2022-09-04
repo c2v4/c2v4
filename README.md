@@ -37,7 +37,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,7 +45,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 401 Contributions in the Year 2022
+> 🏆 403 Contributions in the Year 2022
  > 
 > 📦 249.6 kB Used in GitHub's Storage 
  > 
@@ -55,42 +55,6 @@
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-🌆 Daytime    113 commits    ████████░░░░░░░░░░░░░░░░░   32.01% 
-🌃 Evening    148 commits    ██████████░░░░░░░░░░░░░░░   41.93% 
-🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-Tuesday      66 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
-Wednesday    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Friday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
-Saturday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-Sunday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -108,5 +72,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/c2v4/c2v4/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:53:26 UTC
+ Last Updated on 04/09/2022 18:50:59 UTC
 <!--END_SECTION:waka-->
